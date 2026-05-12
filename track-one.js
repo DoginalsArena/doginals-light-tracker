@@ -8,15 +8,15 @@ const RPC_URL = process.env.RPC_URL || "http://127.0.0.1:22555";
 const targets = [
   {
     name: "first",
-    inscriptionId: "4b6195fee728f6f25a0ff2b5601bf3c37cd8bd233c08525f11d005c48670a7fdi0",
-    txid: "4b6195fee728f6f25a0ff2b5601bf3c37cd8bd233c08525f11d005c48670a7fd",
+    inscriptionId: "txid***************************************i0",
+    txid: "txid***************************************",
     vout: 0,
     startHeight: 4985336,
   },
   {
     name: "second",
-    inscriptionId: "86a4ad5df44547a6a3f2f0e1645b410a2c5b43d7c4d5797327341d24f4f16855i0",
-    txid: "86a4ad5df44547a6a3f2f0e1645b410a2c5b43d7c4d5797327341d24f4f16855",
+    inscriptionId: "txid*2*************************************i0",
+    txid: "txid*2*************************************5",
     vout: 0,
     startHeight: 4985336,
   },
