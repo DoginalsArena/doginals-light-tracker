@@ -90,7 +90,7 @@ Restart Dogecoin Core after changing config.
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/doginals-light-tracker.git
+git clone https://github.com//DoginalsArena/doginals-light-tracker.git
 cd doginals-light-tracker
 ```
 
